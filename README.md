@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://www.linkedin.com/in/azer-taboubi/">
-<iframe src="https://giphy.com/embed/jPK3EsIGS9f8YAp2Fa" width="360" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/linkedin-legolize-logo-jPK3EsIGS9f8YAp2Fa">via GIPHY</a></p>
-</a>
+<iframe src="https://giphy.com/embed/jPK3EsIGS9f8YAp2Fa" width="360" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://www.linkedin.com/in/azer-taboubi/">via GIPHY</a></p>
 
 
