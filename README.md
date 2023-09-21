@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Azer5C74/Azer5C74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
--->
+
 
 
   
 <a href="https://www.linkedin.com/in/azer-taboubi/">
   
-<img height="50" src="https://tenor.com/view/linkedin-gif-23542009" width="360" height="480" frameBorder="0" class="giphy-embed" >
+<img height="50" src="https://media.tenor.com/mSziQlLUwQQAAAAi/linkin-logo.gif" width="360" height="480" frameBorder="0" class="giphy-embed" >
 
 </a>
 
