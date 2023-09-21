@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
 <a href="https://www.linkedin.com/in/azer-taboubi/">
   
-<img src="https://giphy.com/embed/jPK3EsIGS9f8YAp2Fa" width="360" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
+<img height="50" src="https://tenor.com/view/linkin-logo-gif-25661113" width="360" height="480" frameBorder="0" class="giphy-embed" >
 
 </a>
 
