@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 
 
 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
+
+<a href="https://www.linkedin.com/in/azer-taboubi/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+<div style="width:100%;height:0;padding-bottom:133%;position:relative;"><iframe src="https://giphy.com/embed/jPK3EsIGS9f8YAp2Fa" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/linkedin-legolize-logo-jPK3EsIGS9f8YAp2Fa">via GIPHY</a></p>
 </a>
 
 
