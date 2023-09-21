@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/16_kubernetes-512.png" alt="k8s" width="45" height="45"/>  
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azer5C74)](https://github.com/Azer5C74/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azer5C74)](https://github.com/Azer5C74/github-readme-stats)
 <h2> 🚀 &nbsp;Contact Me</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/azer-taboubi/">
