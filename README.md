@@ -3,8 +3,6 @@
 
 ✨ **Azer5C74** ✨ is a nothing but the combination of my name and Base32 encoding of first 3 letters of my family name. Too complicated? haha. That says a lot about me my friend.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as Full Stack Developer.
 - 🎓 I’m graduated as a Software Engineer.
 
