@@ -1,10 +1,11 @@
-### Hi there 👋
+![image](https://github.com/Azer5C74/Azer5C74/assets/31437731/b3faa142-920a-4161-a4e0-eb37a4f5678e)### Hi there 👋
 
 
 ✨ **Azer5C74** ✨ is a nothing but the combination of my name and Base32 encoding of first 3 letters of my family name. Too complicated? haha. That says a lot about me.
 
 - 🔭 I’m currently working as Full Stack Developer.
 - 🎓 I’m graduated as a Software Engineer.
+- 🖥️ I have a taste for System Administration.
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
