@@ -1,4 +1,4 @@
-![image](https://github.com/Azer5C74/Azer5C74/assets/31437731/b3faa142-920a-4161-a4e0-eb37a4f5678e)### Hi there 👋
+### Hi there 👋
 
 
 ✨ **Azer5C74** ✨ is a nothing but the combination of my name and Base32 encoding of first 3 letters of my family name. Too complicated? haha. That says a lot about me.
