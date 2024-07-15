@@ -6,6 +6,7 @@
 - 🔭 I’m currently working as Full Stack Developer.
 - 🎓 I’m graduated as a Software Engineer.
 - 🖥️ I have a taste for System Administration.
+- 🌐 I am a digital nomad.
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
