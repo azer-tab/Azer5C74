@@ -8,7 +8,10 @@ _______________________
 - 🖥️ I have a taste for System Administration.
 - 🌐 I am a digital nomad.
 
+
+Technical
 ______________________
+💻 I dabble in dev-ops. I write GHA workflows, docker & compose (build, deploy, run), CI/CD with changesets/cli, nginx configs, Kubernetes backend services and Vercel CDN front ends.
 <p align="left">
 <a href="https://www.linkedin.com/in/azer-taboubi/">
   
