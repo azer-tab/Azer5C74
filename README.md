@@ -16,7 +16,7 @@ ______________________
 
 ____________________
 <p align="left">
-<a href="https://www.linkedin.com/in/azer-taboubi/">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/azer-taboubi/">LinkedIn</a>
 
 </p>
 
