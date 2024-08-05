@@ -15,10 +15,8 @@ ______________________
 - 💻 I dabble in dev-ops. I write GHA workflows, docker & compose (build, deploy, run), CI/CD with changesets/cli, nginx configs, Kubernetes backend services and Vercel CDN front ends.
 
 ____________________
-<p align="left">
 - <a href="https://www.linkedin.com/in/azer-taboubi/">LinkedIn</a>
 
-</p>
 
 
 
