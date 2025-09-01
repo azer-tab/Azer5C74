@@ -1,7 +1,7 @@
 ## Hi, my name is Azer 👋
 _______________________
 
-- 🔭 I’m currently working as Full Stack Developer.
+- 🔭 I’m currently working as Full Stack Engineer.
 - 🎓 I have graduated as a Software Engineer.
 - 🖥️ I have a taste for System Administration.
 - 🌐 I am a digital nomad.
